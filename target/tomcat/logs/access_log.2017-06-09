@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:12 +0800] "GET /index HTTP/1.1" 200 10591 http-bio-8080-exec-1 1556
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:12 +0800] "POST /hospital/filter HTTP/1.1" 200 1269 http-bio-8080-exec-7 239
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:13 +0800] "GET /login HTTP/1.1" 200 1643 http-bio-8080-exec-8 119
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:14 +0800] "GET /findpwd HTTP/1.1" 200 2969 http-bio-8080-exec-9 103
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:22 +0800] "POST /user/checkemail HTTP/1.1" 200 14 http-bio-8080-exec-10 50
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:53:24 +0800] "POST /user/sendemail HTTP/1.1" 200 36 http-bio-8080-exec-10 2146
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:54:10 +0800] "GET /index HTTP/1.1" 200 10591 http-bio-8080-exec-10 29
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:54:10 +0800] "POST /hospital/filter HTTP/1.1" 200 1269 http-bio-8080-exec-10 13
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:13:54:25 +0800] "GET /login HTTP/1.1" 200 1643 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:12 +0800] "GET /index HTTP/1.1" 200 10591 http-bio-8080-exec-7 26
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:12 +0800] "POST /hospital/filter HTTP/1.1" 200 1269 http-bio-8080-exec-7 16
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:13 +0800] "GET /login HTTP/1.1" 200 1643 http-bio-8080-exec-7 6
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:20 +0800] "POST /user/login HTTP/1.1" 200 36 http-bio-8080-exec-7 13
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:20 +0800] "GET /mUser HTTP/1.1" 200 2614 http-bio-8080-exec-7 208
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:21 +0800] "POST /mUserList HTTP/1.1" 200 824 http-bio-8080-exec-5 18
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:02:24 +0800] "GET /static/style/images/ui-bg_diagonals-thick_18_b81900_40x40.png HTTP/1.1" 200 260 http-bio-8080-exec-5 39
+0:0:0:0:0:0:0:1 - - [09/Jun/2017:14:03:03 +0800] "GET /static/style/images/ui-bg_highlight-soft_75_ffe45c_1x100.png HTTP/1.1" 200 129 http-bio-8080-exec-5 52
